@@ -21,5 +21,8 @@ Security Patch()
 }
 
 
-
+feature2()
+{
+ //feature2 added
+}
 }
